@@ -5,7 +5,8 @@
 .h400 {
   color: khaki;
   font-family: monospace;
-  font-size: 1rem;
+  font-size: 2rem;
+  text-align: center;
 }
 .a00 {
   color: lawngreen;
